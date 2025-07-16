@@ -39,4 +39,4 @@ jobs:
         with:
           subject-path: "dist/build-*"
 
-      - uses: pypa/gh-action-pypi-publish@release/v1
+      - uses: pypa/gh-action-pypi-publish@release/v1gh repo clone t33n3rz/cli
